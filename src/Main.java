@@ -20,9 +20,6 @@ public class Main {
 
      */
 
-
-    ArrayList<Block> blockchain = new ArrayList<>();
-
     public static void main(String[] args) {
 
         String[] genesisTransactions = {"a satoshi sent ivan 999900 bitcoin","hal finney sent 10 bitcoins to ivan"};
